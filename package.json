@@ -1,0 +1,15 @@
+{
+  "name": "constructors_protoypes_car_dealership",
+  "version": "1.0.0",
+  "description": "Exercise to create a model of a car dealership with modules including their properties and behaviours",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test: coverage": "jest --coverage"
+  },
+  "author": "Sandra Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
